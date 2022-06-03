@@ -7,7 +7,7 @@ text-align: center;
 
 
 .img1 img{
-    object-position: right;
+    position: right;
     width: 150px;
     height: auto;
 }
