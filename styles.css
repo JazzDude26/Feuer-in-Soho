@@ -5,25 +5,9 @@ text-align: center;
 
 }
 
-.img1{
-    width: 100px;
-    display: inline-flex;
-}
 
 .img1 img{
     object-position: right;
-    width: 150px;
-    height: auto;
-}
-
-.img2{
-    width: 100px;
-    display: inline-flex;
-}
-
-.img2 img{
-    margin: auto 5px;
-    float: left;
     width: 150px;
     height: auto;
 }
