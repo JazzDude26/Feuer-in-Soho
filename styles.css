@@ -6,6 +6,6 @@ text-align: center;
 }
 
 img.resize {
-    width:540px; /* you can use % */
+    width:20%;
     height: auto;
 }
