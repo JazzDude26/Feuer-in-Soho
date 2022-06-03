@@ -6,6 +6,6 @@ text-align: center;
 }
 
 img.resize {
-    width:20%;
-    height: auto;
+    max-width:20%;
+    max-height: auto;
 }
