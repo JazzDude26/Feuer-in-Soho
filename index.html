@@ -6,112 +6,53 @@
     <title>Document</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+    <style>
+{
+  box-sizing: border-box;
+}
 
-<style>
-    .grid-container {
-         
-      display: grid;
-      grid-template-columns: auto auto auto auto auto;
-        
-      grid-template-rows: 400px / auto auto auto auto auto;
-        row-gap: 0px;
-      
-        
-      background-color: #2196F3;
-      padding: 0px;
-       justify-content: center;
-    }
-    
-    .grid-item {
-      background-color: rgba(255, 255, 255, 0.8);
-      border: 0px solid rgba(0, 0, 0, 0.8);
-      padding: 0px;
-      font-size: 0px;
-      text-align: center;
-    }
-    </style>
-    
-<div class="grid-container">
-   <div class="grid-item">1</div>
-  <div class="grid-item">2</div>
-    
-     <div class="imgA3">
-   <a href="https://www.instagram.com/p/CeUCpgzKIaL/">
-    <img src="docs/assets/A3.png" alt="A3">
-    </a>
-</div>
-    
-  <div class="grid-item">4</div>
-  <div class="grid-item">5</div>
-  <div class="grid-item">6</div>
-  <div class="grid-item">7</div>
-    
-    <div class="imgB3">
-   <a href="https://www.instagram.com/p/CeUCpgzKIaL/">
-    <img src="docs/assets/B3.png" alt="B3">
-    </a>
-</div>
-    
-  <div class="grid-item">9</div>
-  <div class="grid-item">10</div>
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 0px;
+}
 
-     <div class="imgC1">
-   <a href="https://www.instagram.com/p/CeUCpgzKIaL/">
-    <img src="docs/assets/C1.png" alt="C1">
-    </a>
-</div>
-   
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
     
-     <div class="imgC2">
-   <a href="https://www.instagram.com/p/CeUCpgzKIaL/">
-    <img src="docs/assets/C2.png" alt="C2">
+<div class="row">
+  <div class="column">
+    <a href="https://www.instagram.com/p/CeUCpgzKIaL/">
+    <img src="docs/assets/E3.png" alt="E3">
     </a>
+  </div>
+    
+  <div class="column">
+    <a href="https://www.instagram.com/p/CeUCpgzKIaL/">
+    <img src="docs/assets/E3.png" alt="E3">
+    </a>
+  </div>
+    
+  <div class="column">
+    <a href="https://www.instagram.com/p/CeUCpgzKIaL/">
+    <img src="docs/assets/E3.png" alt="E3">
+    </a>
+  </div>
+    
 </div>
 
     
-    <div class="imgC3">
-   <a href="https://www.instagram.com/p/CeUCpgzKIaL/">
-    <img src="docs/assets/C3.png" alt="C3">
-    </a>
-</div>
 
     
-    <div class="grid-item">14</div>
-    <div class="grid-item">15</div>
-    <div class="grid-item">16</div>
-    <div class="grid-item">17</div>
 
-      <div class="imgD3">
-   <a href="https://www.instagram.com/p/CeUCpgzKIaL/">
-    <img src="docs/assets/D3.png" alt="D3">
-    </a>
-</div>
- 
-    
-    <div class="grid-item">19</div>
-    <div class="grid-item">20</div>
-    <div class="grid-item">21</div>
-    <div class="grid-item">22</div>
-    
-      <div class="imgE3">
+   <div class="imgE3">
    <a href="https://www.instagram.com/p/CeUCpgzKIaL/">
     <img src="docs/assets/E3.png" alt="E3">
     </a>
 </div>
- 
-    
-    <div class="grid-item">24</div>
-    <div class="grid-item">25</div>
-  </div>
-    
-
-    
-
-<div class="img1">
-   <a href="https://www.instagram.com/p/CeUCpgzKIaL/">
-    <img src="docs/assets/Solomon Challenge.png" alt="hi">
-    </a>
-</div>
-
 
 </html>
