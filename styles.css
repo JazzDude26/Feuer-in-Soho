@@ -6,65 +6,21 @@ text-align: center;
 }
 
 .imgA3{
-    width: 100px;
-    display: inline-flex;
+    width: 100%;
+    height: auto;
+
 }
 .imgA3 img{
-    position: 
+    position: auto; 
    
 }
 
 .imgB3{
-    width: 100px;
-    display: inline-flex;
+   width: 100%;
+    height: auto;
 }
 .imgB3 img{
-    position: 
-   
-}
-
-.imgC1{
-    width: 100px;
-    display: inline-flex;
-}
-.img13 img{
-    position: 
-
-}
-
-.imgC2{
-    width: 100px;
-    display: inline-flex;
-}
-.imgC2 img{
-    position: 
-  
-}
-
-.imgC3{
-    width: 100px;
-    display: inline-flex;
-}
-.imgC3 img{
-    position: 
-  
-}
-
-.imgD3{
-    width: 100px;
-    display: inline-flex;
-}
-.imgD3 img{
-    position: 
-   
-}
-
-.imgE3{
-    width: 100px;
-    display: inline-flex;
-}
-.imgE3 img{
-    position: 
+    position: auto;
    
 }
 
