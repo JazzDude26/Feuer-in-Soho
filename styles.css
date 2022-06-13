@@ -11,8 +11,8 @@ text-align: center;
 
 }
 .imgA3 img{
-    position: static; 
-    top: 400px;
+    position: auto; 
+    
    
 }
 
@@ -21,8 +21,8 @@ text-align: center;
     height: auto;
 }
 .imgB3 img{
-    position: static; 
-    top: 400px;
+    position: auto; 
+    
    
 }
 
