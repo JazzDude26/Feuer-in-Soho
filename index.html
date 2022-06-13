@@ -13,15 +13,22 @@
 
 .column {
   float: left;
-  width: 400px;
-  padding: 0px;
+  width: 50%;
+  padding: 10px;
 }
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.column img {
+  margin-top: 12px;
 }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+        
+
 </style>
     
 <div class="row">
