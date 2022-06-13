@@ -11,8 +11,8 @@ text-align: center;
 }
 .imgA3 img{
     position: 
-    width: 400px;
-    height: 1200px;
+   grid-column: 3;
+   grid-row: 1;
 }
 
 .imgB3{
@@ -21,8 +21,8 @@ text-align: center;
 }
 .imgB3 img{
     position: 
-    width: 400px;
-    height: 1200px;
+    grid-column: 3;
+    grid-row: 2;
 }
 
 .imgC1{
