@@ -1,5 +1,7 @@
 body{ 
     background-color: rgb(28, 0, 39);
+    max-width:800px;
+    margin:auto;
 }
 
 .text1 {
