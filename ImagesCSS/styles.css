@@ -32,9 +32,9 @@ tbody{
 }
 
 li{
- position: relative;
- left: 270px;
- text-indent: -560px;
+position: relative;
+ margin-left: 270px;
+ text-indent: -350px;
 }
 
 ul{
