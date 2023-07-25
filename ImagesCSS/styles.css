@@ -34,13 +34,11 @@ tbody{
 li{
 position: relative;
  margin-left: 270px;
- text-indent: -350px;
 }
 
 ul{
  list-style-image: url(isopodicon.png);
-padding-left:5px;
- padding-right:5px;
+
 }
 
 .maro {
