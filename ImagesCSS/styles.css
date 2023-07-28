@@ -1,7 +1,8 @@
-body{ 
+            body{ 
     background-color: rgb(28, 0, 39);
     max-width:800px;
     margin:auto;
+    margin-top: 30px;
 }
 
 .text1 {
@@ -46,6 +47,5 @@ ul{
  height: 135px;
  width: 217px;
 }
-
 
 
