@@ -12,14 +12,23 @@
 
 
  td.table1{
- width: 800px;
+ width:700px;
  background-color: lightgray;
  table-layout: auto;
  border-style: double;
  padding: 4px;
  column-width: auto;
  text-align: center;
+ 
 
+}
+ td.table2{
+ width:100px;
+ background-color: lightgray;
+ border-style: double;
+ padding: 4px;
+ float:left;
+ 
 }
 
 thead{
