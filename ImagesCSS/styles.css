@@ -1,6 +1,6 @@
 body{ 
     background-color: rgb(28, 0, 39);
-    max-width:800px;
+    max-width:1000px;
     margin:auto;
     margin-top: 30px;
 }
@@ -12,18 +12,17 @@ body{
 
 
  td.table1{
- width:700px;
+ width:880px;
  background-color: lightgray;
  table-layout: auto;
  border-style: double;
- padding: 4px;
  column-width: auto;
  text-align: center;
  
 
 }
  td.table2{
- width:100px;
+ width:120px;
  background-color: lightgray;
  border-style: double;
  padding: 4px;
@@ -32,7 +31,7 @@ body{
 }
 
 td.table3{
- width:800px;
+ width:1000px;
  background-color: lightgray;
  table-layout: auto;
  border-style: double;
@@ -44,8 +43,7 @@ td.table3{
 }
 
 thead{
- font-weight: bold;
- font-size: 20px;
+ font-size: 15px;
 }
 
 tbody{
@@ -53,7 +51,10 @@ tbody{
  font-size: 15px;
 }
 
-li{
+div{
+     width:500px;
+     padding-left:150px;
+     margin-top:-15px;
 }
 
 ul{
