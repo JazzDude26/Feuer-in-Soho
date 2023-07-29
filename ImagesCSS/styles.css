@@ -1,4 +1,4 @@
-            body{ 
+body{ 
     background-color: rgb(28, 0, 39);
     max-width:800px;
     margin:auto;
@@ -29,6 +29,18 @@
  padding: 4px;
  float:left;
  
+}
+
+td.table3{
+ width:800px;
+ background-color: lightgray;
+ table-layout: auto;
+ border-style: double;
+ padding: 4px;
+ column-width: auto;
+ text-align: center;
+ 
+
 }
 
 thead{
