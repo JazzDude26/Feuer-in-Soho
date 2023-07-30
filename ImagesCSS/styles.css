@@ -52,3 +52,6 @@ ul{
  width: 217px;
 }
 
+.home:hover{
+  border: 5px solid #FFFF00;
+}
