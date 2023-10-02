@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Isopodtober 2023</title>
+        <link rel="icon" type="image/x-icon" href="ImagesCSS/Giant Armadillidium 4.png">
+        <link rel="stylesheet" href="/ImagesCSS/styles.css">
+<style>
+    img.folio{
+ width: 99%;
+ margin-top:2px;
+ margin-bottom:3px;
+}
+</style>
+        
+    </head>
+ 
+    
+
+    <body>
+
+      <a href="http://jazz-dude.com/"> <img src="/ImagesCSS/house.png" style="width:30px;height:30px;"> </a>
+          <table width="800px">
+          <tbody>
+              <tr>
+                  <td>
+                      <img src="/ImagesCSS/pixel kobold.png" style="float:left;margin-left:75px;width:120px;height:120px;">
+                      <img src="/ImagesCSS/pixel kobold.png" style="float:right;margin-right:75px;width:120px;height:120px; transform: scaleX(-1)">
+                      <h1 class="text1"> *** ISOPODTOBER 2023 *** </h1>
+                      
+                      <hr>
+                      <br>
+                  </td>
+              </tr>
+          </tbody>
+      </table>
+      
+      <br>
+      <br>
+      <br>
+      
+      <table>
+          <tr>
+          <td class="table3">
+
+    <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/a3566969-3a9d-402c-9ec6-26db53e65e74_isopodtober2.jpg">
+<img src="https://storage.ko-fi.com/cdn/useruploads/display/a3566969-3a9d-402c-9ec6-26db53e65e74_isopodtober2.jpg" class="folio"></a>
+              
+    <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/f80b179c-280d-47f7-91e5-dfdceb8c8207_isopodtober2301.jpg">
+<img src="https://storage.ko-fi.com/cdn/useruploads/display/f80b179c-280d-47f7-91e5-dfdceb8c8207_isopodtober2301.jpg" class="folio"></a> 
+The prototype for the mechanized isopodal frame created by Group-7, a robotics company from the planet Kaktorn. 14 legs, a simple ocular module, power-leeches to the front and back to make charging easy.                                       
+  
+  
+  </td>
+  </tr>
+  
+  </table>
+  </body>
+
+</html>
