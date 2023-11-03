@@ -5,42 +5,138 @@
         <link rel="icon" type="image/x-icon" href="ImagesCSS/Giant Armadillidium 4.png">
         <link rel="stylesheet" href="/ImagesCSS/styles.css">
         <style>
-            .home:hover{
-  border: 5px solid #FFFF00;
+        
+ 
+ /* grid container */
+.holy-grail-grid {
+    display:grid;
+    grid-template-areas:
+        'header'
+        'main-content'
+        'left-sidebar'
+        'right-sidebar'
+        'footer';
 }
+
+/* general column padding */
+.holy-grail-grid > * {
+    padding:1rem;
+}
+
+/* assign columns to grid areas */
+.holy-grail-grid > .header {
+    grid-area:header;
+    background:rgb(28, 0, 39);
+    padding-left:19.5%;
+    color:lightgrey;
+}
+.holy-grail-grid > .main-content {
+    grid-area:main-content;
+    background:lightgrey;
+    text-align:center;
+    border-style:double;
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+    
+}
+.holy-grail-grid > .left-sidebar {
+    grid-area:left-sidebar;
+    background:rgb(28, 0, 39);
+}
+.holy-grail-grid > .right-sidebar {
+    grid-area:right-sidebar;
+    background:rgb(28, 0, 39);
+}
+.holy-grail-grid > .footer {
+    grid-area:footer;
+    background:rgb(28, 0, 39);
+}
+
+/* tablet breakpoint */
+@media (min-width:768px) {
+    .holy-grail-grid {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+            'header header'
+            'main-content main-content'
+            'left-sidebar right-sidebar'
+            'footer footer';
+    }
+}
+
+/* desktop breakpoint */
+@media (min-width:1024px) {
+    .holy-grail-grid {
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-areas:
+            'header header header header'
+            'left-sidebar main-content main-content right-sidebar'
+            'footer footer footer footer';
+    }
+    
+    
+    .header-img{
+    width:98%;
+    height:100%;
+    border: 5px solid #555;
+    }
+    
+    .header-img:hover{
+    border: 5px solid #FFFF00;
+}
+    
+     .table1{
+    border-style:double;
+}
+
+
+       
+    
+}
+ 
+ 
         </style>
     </head>
  
     
 
-      <body>
-        <table width="800px">
-            <tbody>
+    <body>
+        
+        
+    <div class="holy-grail-grid">
+        
+      <header class="header">
+          
+    <table>
+        <table>
+            <tbody >
                 <tr>
                     <td>
+                        <h1> *** Jazz-Dude's Art Page ***
                         <img src="ImagesCSS/jazzsword.png" style="float:left;margin-left:75px;width:120px;height:120px;">
                         <img src="ImagesCSS/jazzsword.png" style="float:right;margin-right:75px;width:120px;height:120px;transform: scaleX(-1)">
-                        <h1 class="text1"> *** Jazz-Dude's Art Page *** </h1>
+                        </h1>
                         
                         <hr>
-                        <br>
                     </td>
                 </tr>
             </tbody>
         </table>
-            
-       
-                   <br style="margin-top:50px;">
-           
-        
-        <table>
+          
+      </header>
+      
+      <main class="main-content">
+          
+           <table class="table1">
             <thead>
                             <tr>
                                 
                                 
-                                <td class="table3">
+                                <td>
                                     <div>
-                                        <a href="/Yonkomas/Yonkoma Chapter 1.html"><img src="https://i.imgur.com/HowIJ0R.jpg" class="home"></a>
+                                    <a href="/Yonkomas/Yonkoma Chapter 1.html"><img src="https://i.imgur.com/HowIJ0R.jpg"  class="header-img"></a>
                                     <h4>Comics and Yonkomas</h4>
                                     <div>Here is where I put my small Comics and Yonkomas. They have no story.</div>
                                     <p>Last Updated: 15.09.2023</p>
@@ -50,14 +146,16 @@
                                 
                             </tr>
             </thead>
-            <thead>
+           </table>
+           <table class="table1">
+                        <thead>
                             <tr>
                                 
                                     
                                 
-                                <td class="table3">
+                                <td>
                                      <div>
-                                        <a href="neighborhood.html"> <img src="https://i.imgur.com/VUl0BNG.jpg" class="home"> </a>
+                                        <a href="neighborhood.html"> <img src="https://i.imgur.com/VUl0BNG.jpg" class="header-img"> </a>
                                     <h4>Neighborhood Project - Communal Worldbuilding</h4>
                                     <div>A communal worldbuilding project where various artists build a futuristic neighborhood.</div>
                                     <p>Last Updated: 10.08.2023</p>
@@ -65,6 +163,26 @@
                                 </td>
                             </tr>
             </thead>
+            </table>
+            <table  class="table1">
+             <thead>
+                             <tr>
+                                 
+                                     
+                                     
+                                 
+                                <td>
+                                     <div>
+                                         <a href="Portfolio.html"><img src="https://i.imgur.com/cpoLLrF.jpg" class="header-img"></a>
+                                    <h4>Portfolio</h4>
+                                    <div>Here you can find some select artworks of mine from finished pieces to sketches.</div>
+                                    <p>Last Update : 31.10.2023 Added images to: 'Isopodtober 2023'and 'Doodles'</p>
+                                    </div>
+                                </td>
+                            </tr>
+            </thead>
+            </table>
+            <table class="table1">
             <thead>
                              <tr>
                                  
@@ -73,48 +191,19 @@
                                  
                                 <td class="table3">
                                      <div>
-                                         <a href="Portfolio.html"><img src="https://i.imgur.com/cpoLLrF.jpg" class="home"></a>
-                                    <h4>Portfolio</h4>
-                                    <div>Here you can find some select artworks of mine from finished pieces to sketches.</div>
-                                    <p>Last Update : 31.10.2023 Added images to: 'Isopodtober 2023'and 'Doodles'</p>
-                                    </div>
-                                </td>
-                            </tr>
-            </thead>
-            
-                    <thead>
-                             <tr>
-                                 
-                                     
-                                     
-                                 
-                                <td class="table3">
-                                     <div>
-                                         <a href="Comissions page.html"><img src="https://i.imgur.com/dZojj6M.jpg" class="home"></a>
+                                         <a href="Comissions page.html"><img src="https://i.imgur.com/dZojj6M.jpg" class="header-img"></a>
                                     
                                     <p>Here you can find out how to comission me, everything you need to know and how the process works.
                                     </div>
                                 </td>
                             </tr>
             </thead>
-            
-        </table>
-    
-    <br>
-    
-           <table>
-               <thead>
-            
+            </table>
+            <table class="table1">
+                <thead>
                             <tr>
-                                <td class="table3">
-                                   <h3>Useful Links</h3>
-                                </td>
-                            </tr>
-                </thead>
-                <tbody>
-                            <tr>
-                                <td class="table3" style="line-height:1.2;">
-                                    <ul style="margin-left:325px;text-indent: 20px;text-align:left;">
+                                <td style="line-height:1.2;text-align:center;padding-right:250px;padding-left:220px;" >
+                                    <ul>
                                        
                                        <li><a href="https://ko-fi.com/jazzdude">Ko-Fi</a></li>
                                        <li><a href="https://jazzdude.itch.io/">Itch.io</a></li>
@@ -127,18 +216,13 @@
                                     </ul>
                                 </td>
                             </tr>
-                </tbody>
-    
-    
-        </table>
-        
-        <br>
-        
-            <table>
-                        <thead>
+                </thead>
+            </table>
+            <table  class="table1">
+                <thead>
             
                             <tr>
-                                <td class="table3">
+                                <td>
                                   <h3>Discord</h3>
                                 </td>
                             </tr>
@@ -146,16 +230,47 @@
                 
                 <tbody>
                             <tr>
-                                <td class="table3">
-                                    <a href="https://discord.gg/jksmKXJmKq"> <img src="ImagesCSS/Banner Discord.jpg" class="home"> </a>
+                                <td>
+                                    <a href="https://discord.gg/jksmKXJmKq"> <img src="ImagesCSS/Banner Discord.jpg" class="header-img"> </a>
                                 </td>
                             </tr>
                 </tbody>
         </table>
-         <img src="ImagesCSS/eepy maro.gif" class="maro">
+ 
+      </main>
+    
+    
+    
+      <section class="left-sidebar"></section>
+    
+      <aside class="right-sidebar"></aside>
+    
+      <footer class="footer">
+          
+          
+          <br>
+             <br>
+                <br>
+                   <br>
+                      <br>
+                         <br>
+                            <br>
+                               <br>
+                                  <br>
+                                     <br>
+                                        <br>
+                                           <br>
+                                              <br>
+                                                 <br>
+          
+          <img src="ImagesCSS/eepy maro.gif" style="margin-left:auto;margin-right:auto;width:10%;display:block;">
          
          
-         <h6 style="color: lightgray; margin-left: 275px;"> An artist's just a huckster, with some sembelance of a heart</h6>
-         
+         <h6 style="color: lightgray; text-align:center;"> An artist's just a huckster, with some sembelance of a heart</h6>
+          
+      </footer>
+    
+    </div>    
+
     </body>
     </html>
