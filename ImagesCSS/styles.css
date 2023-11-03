@@ -1,52 +1,93 @@
- body{ 
-    background-color: rgb(28, 0, 39);
-    max-width:800px;
-    margin:auto;
-    margin-top: 30px;
+ /* grid container */
+.holy-grail-grid {
+    display:grid;
+    grid-template-areas:
+        'header'
+        'main-content'
+        'left-sidebar'
+        'right-sidebar'
+        'footer';
 }
 
-.text1 {
- text-align: center;
- color: lightgray;
+/* general column padding */
+.holy-grail-grid > * {
+    padding:1rem;
 }
 
-
- td.table3{
- width:800px;
- background-color: lightgray;
- table-layout: auto;
- border-style: double;
- column-width: auto;
- text-align: center;
- line-height:0.5;
- }
-
-thead{
- font-size: 15px;
+/* assign columns to grid areas */
+.holy-grail-grid > .header {
+    grid-area:header;
+    background:rgb(28, 0, 39);
+    margin-right:auto;
+    margin-left:auto;
+    color:lightgrey;
+}
+.holy-grail-grid > .main-content {
+    grid-area:main-content;
+    background:lightgrey;
+    text-align:center;
+    border-style:double;
+    margin-right:auto;
+    margin-left:auto;
+    
+    
+}
+.holy-grail-grid > .left-sidebar {
+    grid-area:left-sidebar;
+    background:rgb(28, 60, 39);
+    width:30%;
+    margin-right:auto;
+    margin-left:auto;
+}
+.holy-grail-grid > .right-sidebar {
+    grid-area:right-sidebar;
+    background:rgb(28, 60, 39);
+    width:30%;
+    margin-right:auto;
+    margin-left:auto;
+}
+.holy-grail-grid > .footer {
+    grid-area:footer;
+    background:rgb(28, 0, 39);
 }
 
-tbody{
- font-weight: bold;
- font-size: 15px;
+/* tablet breakpoint */
+@media (min-width:768px) {
+    .holy-grail-grid {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+            'header header'
+            'main-content main-content'
+            'left-sidebar right-sidebar'
+            'footer footer';
+    }
 }
 
-img.home{
- width:780px;
- height:95px;
- border: 5px solid #555;
+/* desktop breakpoint */
+@media (min-width:1024px) {
+    .holy-grail-grid {
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-areas:
+            'header header header header'
+            'left-sidebar main-content main-content right-sidebar'
+            'footer footer footer footer';
+    }
+    
+    
+    .header-img{
+    margin-right:auto;
+    margin-left:auto;
+    width:98%;
+    display:block;
+    border: 5px solid #555;
+    }
+    
+    .header-img:hover{
+    border: 5px solid #FFFF00;
 }
-
-
-.maro {
- display: block;
- margin-left: 300px;
- margin-top: 400px;
- height: 135px;
- width: 217px;
-}
-
-pre{
-    width:790px;
+    
+     .table1{
+    border-style:double;
 }
 
 
