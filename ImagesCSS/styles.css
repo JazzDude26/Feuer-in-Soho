@@ -18,8 +18,6 @@
 .holy-grail-grid > .header {
     grid-area:header;
     background:rgb(28, 0, 39);
-    margin-right:auto;
-    margin-left:auto;
     color:lightgrey;
 }
 .holy-grail-grid > .main-content {
@@ -27,24 +25,16 @@
     background:lightgrey;
     text-align:center;
     border-style:double;
-    margin-right:auto;
-    margin-left:auto;
     
     
 }
 .holy-grail-grid > .left-sidebar {
     grid-area:left-sidebar;
     background:rgb(28, 60, 39);
-    width:30%;
-    margin-right:auto;
-    margin-left:auto;
 }
 .holy-grail-grid > .right-sidebar {
     grid-area:right-sidebar;
     background:rgb(28, 60, 39);
-    width:30%;
-    margin-right:auto;
-    margin-left:auto;
 }
 .holy-grail-grid > .footer {
     grid-area:footer;
