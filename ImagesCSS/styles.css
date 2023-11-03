@@ -42,17 +42,22 @@
 @media (min-width:1024px) {
     .holy-grail-flexbox > .header {
         order:-2; /* header first */
+        text-align:center;
+        color:lightgrey;
     }
     .holy-grail-flexbox > .left-sidebar {
         /* left sidebar second (first in second row) */
         order:-1; 
+        text-align:center;
     }
     .holy-grail-flexbox > .main-content {
         width:50%;
+        text-align:center;
     }
     .holy-grail-flexbox > .left-sidebar,
     .holy-grail-flexbox > .right-sidebar {
         width:25%;
+        text-align:center;
     }
 }
     
@@ -72,6 +77,7 @@
      .table1{
     border-style:double;
 }
+
 
 
 
