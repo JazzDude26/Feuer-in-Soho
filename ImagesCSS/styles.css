@@ -22,6 +22,14 @@
 .holy-grail-flexbox > .right-sidebar {background:#c5ed77}
 .holy-grail-flexbox > .footer {background:#72c2f1}
 
+/* mobile breakpoint */
+@media (min-width:360px) {
+    .holy-grail-flexbox > .left-sidebar,
+    .holy-grail-flexbox > .right-sidebar {
+        width:25%;
+    }
+}
+
 /* tablet breakpoint */
 @media (min-width:768px) {
     .holy-grail-flexbox > .left-sidebar,
