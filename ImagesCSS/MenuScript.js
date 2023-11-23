@@ -1,3 +1,3 @@
 function myFunction() {
-  document.getElementById("HomeMenu").innerHTML = "Hello World";
+  document.write("<h2>Hello World!</h2><p>Have a nice day!</p>");
 }
