@@ -1,15 +1,23 @@
 <!DOCTYPE html>
 <html>
     <head>
-
+        <title>Jazz-Dude Neighborhood Project</title>
         <link rel="icon" type="image/x-icon" href="ImagesCSS/Giant Armadillidium 4.png">
-        <link rel="stylesheet" href="/ImagesCSS/styles.css">
+        <link rel="stylesheet" href="ImagesCSS/styles.css">
+    </head>
+ 
 
 </head>
  
-<body>
+    
 
-                     <table class="table1" style="margin-right:auto;margin-left:auto;;background-color:#dedede;">
+
+
+    
+
+  <body>
+
+                         <table class="table1" style="margin-right:auto;margin-left:auto;;background-color:#dedede;">
                <tbody>
             
                             <tr>
@@ -19,15 +27,9 @@
                             </tr>
                             <tr>
                                 <td style="line-height:1.2;">
-                                    <ul style="margin-left:10%;text-indent:auto;text-align:left;padding-left:20%;padding-right:20%;">
-                                       
-                                       <li><a href="/Portfolio/old-to-12-2023.html">Old art up to 12.2023</a></li>
-                                       <li><a href="/Portfolio/doodles.html">Some doodles</a></li>
-                                       <li><a href="/Portfolio/isopodtober2022.html">Isopodtober 2022</a></li>
-                                       <li><a href="/Portfolio/isopodtober2023.html">Isopodtober 2023</a></li>
-                                        <li><a href="/Portfolio/mars.html">Sci-Fi Worldbuilding: Mars</a></li>
-    
-                                    </ul>
+
+                         <div id="foo"></div>
+
                                 </td>
                             </tr>
                </tbody>       
@@ -46,5 +48,38 @@
     
         </table>
 
-</body>
-</html>
+
+
+    <script>
+        
+        var json={'a': 'https://jazz-dude.com/Portfolio/mars.html', 'b': 'Second', 'c': 'Third'};
+function makeUL(json) {
+    // Create the list element:
+    var list = document.createElement('ul');
+
+    for(var i = 0; i < Object.keys(json).length; i++) {
+        // Create the list item:
+        var item = document.createElement('li');
+
+        // Set its contents:
+        item.appendChild(document.createTextNode(Object.values(json)[i]));
+
+        // Add it to the list:
+        list.appendChild(item);
+    }
+
+    // Finally, return the constructed list:
+    return list;
+}
+
+// Add the contents of json to #foo:
+document.getElementById('foo').appendChild(makeUL(json));
+        
+    </script>
+
+
+
+
+    </body>
+    </html>
+    
