@@ -16,7 +16,7 @@ var json = [
         link: "https://jazz-dude.com/Portfolio/isopodtober2023.html"
     },
     {
-        title: "Sci-Fi Worldbuilding: Important Dates",
+        title: "Sci-Fi Worldbuilding: Timeline",
         link: "https://jazz-dude.com/Portfolio/mars.html"
 
     },
