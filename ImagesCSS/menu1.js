@@ -17,7 +17,7 @@ var json = [
     },
     {
         title: "Sci-Fi Worldbuilding: Timeline",
-        link: "https://jazz-dude.com/Portfolio/mars.html"
+        link: "https://jazz-dude.com/Portfolio/important-dates.html"
 
     },
     {
