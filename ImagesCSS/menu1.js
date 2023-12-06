@@ -1,15 +1,31 @@
 var json = [
     {
-        title: "jazz dude",
+        title: "Old art up to 12.2023",
+        link: "https://jazz-dude.com/Portfolio/old-to-12-2023.html"
+    },
+    {
+        title: "Some doodles",
+        link: "https://jazz-dude.com/Portfolio/doodles.html"
+    },
+    {
+        title: "Isopodtober 2022",
+        link: "https://jazz-dude.com/Portfolio/isopodtober2022.html"
+    },
+    {
+        title: "Isopodtober 2023",
+        link: "https://jazz-dude.com/Portfolio/isopodtober2023.html"
+    },
+    {
+        title: "Sci-Fi Worldbuilding: Mars",
         link: "https://jazz-dude.com/Portfolio/mars.html"
     },
     {
-        title: "uuupah",
-        link: "https://uuupah.neocities.org/"
+        title: "Communal Worldbuilding Project",
+        link: "https://jazz-dude.com/neighborhood.html"
     },
     {
-        title: "gusbus",
-        link: "https://gusbus.space/"
+        title: "Silly 4 Panel Comics",
+        link: "https://jazz-dude.com/Yonkomas/Yonkoma%20Chapter%201.html"
     },
 ]
 
