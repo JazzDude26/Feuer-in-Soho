@@ -28,10 +28,6 @@ var json = [
         title: "Sci-Fi Worldbuilding: Mars",
         link: "https://jazz-dude.com/Portfolio/mars.html"
     },
-   {
-        title: "Sci-Fi Worldbuilding: People from far and beyond",
-        link: "https://jazz-dude.com/Portfolio/character-zine-1.html"
-    },
     {
         title: "Communal Worldbuilding Project",
         link: "https://jazz-dude.com/neighborhood.html"
