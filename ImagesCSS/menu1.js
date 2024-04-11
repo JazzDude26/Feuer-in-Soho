@@ -36,6 +36,10 @@ var json = [
         title: "Silly 4 Panel Comics",
         link: "https://jazz-dude.com/Yonkomas/Yonkoma%20Chapter%201.html"
     },
+    {
+        title: "Commissions",
+        link: "https://jazz-dude.com/Portfolio/Commissions.html"
+    },
 ]
 
 function makeUL(json) {
