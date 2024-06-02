@@ -37,8 +37,8 @@ var json = [
         link: "https://jazz-dude.com/neighborhood.html"
     },
     {
-        title: "Silly 4 Panel Comics",
-        link: "https://jazz-dude.com/Yonkomas/Yonkoma%20Chapter%201.html"
+        title: "Sunday Comics",
+        link: "https://jazz-dude.com/Portfolio/SundayC.html"
     },
     {
         title: "Commissions",
