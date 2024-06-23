@@ -24,19 +24,6 @@ var json = [
         link: "https://jazz-dude.com/Portfolio/isopodtober2023.html"
     },
     {
-        title: "Sci-Fi Worldbuilding: Timeline",
-        link: "https://jazz-dude.com/Portfolio/important-dates.html"
-
-    },
-    {
-        title: "Sci-Fi Worldbuilding: Mars",
-        link: "https://jazz-dude.com/Portfolio/mars.html"
-    },
-    {
-        title: "Communal Worldbuilding Project",
-        link: "https://jazz-dude.com/neighborhood.html"
-    },
-    {
         title: "Sunday Comics",
         link: "https://jazz-dude.com/Portfolio/SundayC.html"
     },
