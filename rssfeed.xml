@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>{Jazz'z Art Updates}</title>
+  <description>{This feed is for updates to my website!}</description>
+  <link>{https://jazz-dude.com/}</link>
+  <lastBuildDate>
+    { Sat, 10 Aug 2024 12:08:07 +0000 }
+  </lastBuildDate>
+  <ttl>{4320}</ttl>
+  
+  <!-- Above this is the header, below are each article -->
+
+ <item>
+    <title>{Test 1}</title>
+    <description>
+      {This is a test}
+    </description>
+    <link>{https://jazz-dude.com/Portfolio/2024-5-8.html}</link>
+    <pubDate>
+      { Sat, 10 Aug 2024 12:08:07 +0000 }
+    </pubDate>
+  </item>
+
+
+<!-- End of the article list -->
+
+</channel>
+</rss>
