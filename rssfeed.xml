@@ -5,14 +5,14 @@
   <description>This feed is for updates to my website!</description>
   <link>https://jazz-dude.com/</link>
   <lastBuildDate>
-    Sat, 10 Aug 2024 12:08:07 +0000
+     Sun, 11 Aug 2024 12:26:34 +0000
   </lastBuildDate>
   <ttl>7200</ttl>
   
   <!-- Above this is the header, below are each article -->
 
  <item>
-    <title>Test 5</title>
+    <title>New Art and Stuff! 11.08.2024</title>
     <description>
       Here is some new art and stuff!
     </description>
