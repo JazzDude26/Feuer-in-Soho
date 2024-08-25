@@ -1,72 +1,19 @@
-<feed xml:base="https://jazz-dude.com/">
-<title>Art Stuff and News</title>
-<subtitle>the art updates of the week</subtitle>
-<link href="https://jazz-dude.com/rsstest.xml" rel="self"/>
-<link href="https://jazz-dude.com/"/>
-<updated>2024-08-25T00:00:00Z</updated>
-<id>https://jazz-dude.com//</id>
-<author>
-<name>Jazz</name>
-</author>
-<entry>
-<title>New Art 25.08.2024</title>
-<link href="https://jazz-dude.com/News/news-08-25.html"/>
-<updated>2024-08-25T00:00:00Z</updated>
-<id>https://jazz-dude.com/News/news-08-25.html</id>
-   <content xml:lang="en" type="html">
-<html>
-    <head>
-    </head>
-     <body>
-     <table class="table1" style="width:50%;margin-left:24%;margin-right:24%;background-color:#dedede;border-style:double;">
-         <tr>
-             <td>
-         <table class="table1" style="margin:5%;padding:5%;background-color:#dedede;border-style:outset;border-width:10px;"> 
-         <tr>
-                                
-                                
-                                <td>
-                                    <div>
-                                    <h3>News and Updates 25.08.2024</h3>
-                                    <hr>    
-                                     <h4>Site News</h4> 
-                                    <p> Been drawing some characters again, just keeping the muscles warm and a new sunday comic.</p>     
-                                    <p>Added new art to <a href="https://jazz-dude.com/Portfolio/doodles.html">Doodles</a>
-                                    and <a href="https://jazz-dude.com/Portfolio/SundayC.html">Sunday Comics</a></p>
-                                    
-                                    <p>Here is all the new stuff!</p>
-       <h3>Doodles</h3>                                 
-      <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/8f4d7e2d-d254-475c-8361-71f85a93e7d7_doodlebigwoman.jpg">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/8f4d7e2d-d254-475c-8361-71f85a93e7d7_doodlebigwoman.jpg" style="width:30%;" ></a>
 
-           <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/ed144e8b-9b61-4987-8beb-0aff3fc98642_doodlesinger.jpg">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/ed144e8b-9b61-4987-8beb-0aff3fc98642_doodlesinger.jpg" style="width:30%;" ></a>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
 
-          <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/652e3d8b-109b-4e0a-ba86-b52b69ae86e8_doodleworker.jpg">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/652e3d8b-109b-4e0a-ba86-b52b69ae86e8_doodleworker.jpg" style="width:30%;" ></a>
+<channel>
+  <title>Art and Updates</title>
+  <link>https://jazz-dude.com/News/news.html</link>
+  <description>New Art and Stuff</description>
+   
+  <item>
+    <title>25.08.2024 News and Art</title>
+    <link>https://jazz-dude.com/News/news-08-25.html</link>
+    <pubDate>Sun, 25 Aug 2024</pubDate>
+    <description>New News update with new art!</description>
+  </item>
+   
+</channel>
 
-    <br>
-   <h3>Sunday Strips</h3>  
-      <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/6d0cf241-51ad-4303-bdd9-b64813a06139_sundaystrip08-25-2024.jpg">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/6d0cf241-51ad-4303-bdd9-b64813a06139_sundaystrip08-25-2024.jpg" style="width:90%;" ></a>
-
-
-    <br>
-   <h3>Renders</h3>                               
-  <p>No renders this update :P</p>
-      
-                                        
-                                    </div>
-                               </td>
-                                
-                            </tr>
-           </table>                       
-                                </td>
-                                
-                            </tr>
-           </table>
-     </body>
-</html>
-   </content>
-</entry>
-</feed>
+</rss> 
