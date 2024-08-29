@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Example Feed</title>
+  <title>FEUER IN SOHO!</title>
   <link href="https://jazz-dude.com/News/news.html"/>
   <updated>2024-08-29T21:05:02Z</updated>
   <author>
@@ -10,7 +10,7 @@
   <id>https://jazz-dude.com</id>
 
   <entry>
-    <title>Jazz'z new art and stuff</title>
+    <title>Jazz'z news art and stuff 25.08.2024</title>
     <link href="https://jazz-dude.com/News/news-08-25.html"/>
     <id>https://jazz-dude.com/News/news-08-25.html</id>
     <updated>2024-08-29T21:05:02Z</updated>
