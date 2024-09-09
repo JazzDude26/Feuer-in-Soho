@@ -7,6 +7,10 @@ var json = [
         title: "Art from May to August 2024",
         link: "https://jazz-dude.com/Portfolio/2024-5-8.html"
     },
+     {
+        title: "Art from September to December 2024",
+        link: "https://jazz-dude.com/Portfolio/2024-9-12.html"
+    }, 
     {
         title: "Old art up to 12.2023",
         link: "https://jazz-dude.com/Portfolio/old-to-12-2023.html"
