@@ -7,12 +7,12 @@
   <author>
     <name>Jazz</name>
   </author>
-    <icon>//ImagesCSS/Giant Armadillidium 4.png</icon>
+  <icon>/ImagesCSS/Giant Armadillidium 4.png</icon>
   <subtitle>7 Kinder und 1 Greis</subtitle>
   <id>https://jazz-dude.com</id>
   
 
-  <entry>
+<entry>
     <title>Jazz'z news art and stuff 25.08.2024</title>
     <link href="https://jazz-dude.com/News/news-08-25.html"/>
     <id>https://jazz-dude.com/News/news-08-25.html</id>
@@ -69,7 +69,8 @@
  </body>
  </html>
   </content>
-  </entry>
+
+</entry>
 
 
 
@@ -200,7 +201,8 @@
  </table>
  </body>
  </html>
-    </entry>    
+      
+</entry>    
 
     
 </feed>
