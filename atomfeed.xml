@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="https://jazz-dude.com/atomfeed.xml">
+<feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>FEUER IN SOHO!</title>
   <link href="https://jazz-dude.com/>
