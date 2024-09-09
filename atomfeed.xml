@@ -1,209 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="https://jazz-dude.com/">
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>FEUER IN SOHO!</title>
-<link href="https://jazz-dude.com/>
-  
-<author>
-<name>Jazz</name>
-</author>
-<updated> 2024-09-09T10:00:56Z </updated>
-<icon>/ImagesCSS/Giant Armadillidium 4.png</icon>
-<subtitle>7 Kinder und 1 Greis</subtitle>
-<id>https://jazz-dude.com</id>
-  
+  <title>FEUER IN SOHO!</title>
+  <link href="https://jazz-dude.com/News/news.html"/>
+  <updated>2024-09-03T19:51:02Z</updated>
+  <author>
+    <name>Jazz</name>
+  </author>
+  <id>https://jazz-dude.com</id>
 
-<entry>
+  <entry>
     <title>Jazz'z news art and stuff 25.08.2024</title>
     <link href="https://jazz-dude.com/News/news-08-25.html"/>
     <id>https://jazz-dude.com/News/news-08-25.html</id>
     <updated>2024-08-29T21:05:02Z</updated>
     <content xml:lang="en" type="html">
 <html>
- <head>
- </head>
+<head>
+</head>
 
- <body>
- <table class="table1" style="width:50%;margin-left:24%;margin-right:24%;background-color:#dedede;border-style:double;">
- <tr>
- <td>
- <table class="table1" style="margin:5%;padding:5%;background-color:#dedede;border-style:outset;border-width:10px;"> 
- <tr>
+<body>
+<table class="table1" style="width:50%;margin-left:24%;margin-right:24%;background-color:#dedede;border-style:double;">
+<tr>
+<td>
+<table class="table1" style="margin:5%;padding:5%;background-color:#dedede;border-style:outset;border-width:10px;"> 
+<tr>
                                 
                                 
- <td>
- <div>
- <h3>News and Updates 25.08.2024</h3>
- <hr>    
- <h4>Site News</h4> 
- <p> Been drawing some characters again, just keeping the muscles warm and a new sunday comic.</p>     
- <p>Added new art to <a href="https://jazz-dude.com/Portfolio/doodles.html">Doodles</a>
- and <a href="https://jazz-dude.com/Portfolio/SundayC.html">Sunday Comics</a></p>
+<td>
+<div>
+<h3>News and Updates 25.08.2024</h3>
+<hr>    
+<h4>Site News</h4> 
+<p> Been drawing some characters again, just keeping the muscles warm and a new sunday comic.</p>     
+<p>Added new art to <a href="https://jazz-dude.com/Portfolio/doodles.html">Doodles</a>
+and <a href="https://jazz-dude.com/Portfolio/SundayC.html">Sunday Comics</a></p>
                                     
- <p>Here is all the new stuff!</p>
- <h3>Doodles</h3>                                 
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/8f4d7e2d-d254-475c-8361-71f85a93e7d7_doodlebigwoman.jpg">
- <img src="https://storage.ko-fi.com/cdn/useruploads/display/8f4d7e2d-d254-475c-8361-71f85a93e7d7_doodlebigwoman.jpg" style="width:30%;" ></a>
+<p>Here is all the new stuff!</p>
+<h3>Doodles</h3>                                 
+<a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/8f4d7e2d-d254-475c-8361-71f85a93e7d7_doodlebigwoman.jpg">
+<img src="https://storage.ko-fi.com/cdn/useruploads/display/8f4d7e2d-d254-475c-8361-71f85a93e7d7_doodlebigwoman.jpg" style="width:30%;" ></a>
 
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/ed144e8b-9b61-4987-8beb-0aff3fc98642_doodlesinger.jpg">
- <img src="https://storage.ko-fi.com/cdn/useruploads/display/ed144e8b-9b61-4987-8beb-0aff3fc98642_doodlesinger.jpg" style="width:30%;" ></a>
+<a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/ed144e8b-9b61-4987-8beb-0aff3fc98642_doodlesinger.jpg">
+<img src="https://storage.ko-fi.com/cdn/useruploads/display/ed144e8b-9b61-4987-8beb-0aff3fc98642_doodlesinger.jpg" style="width:30%;" ></a>
 
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/652e3d8b-109b-4e0a-ba86-b52b69ae86e8_doodleworker.jpg">
- <img src="https://storage.ko-fi.com/cdn/useruploads/display/652e3d8b-109b-4e0a-ba86-b52b69ae86e8_doodleworker.jpg" style="width:30%;" ></a>
+<a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/652e3d8b-109b-4e0a-ba86-b52b69ae86e8_doodleworker.jpg">
+<img src="https://storage.ko-fi.com/cdn/useruploads/display/652e3d8b-109b-4e0a-ba86-b52b69ae86e8_doodleworker.jpg" style="width:30%;" ></a>
 
- <br>
- <h3>Sunday Strips</h3>  
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/6d0cf241-51ad-4303-bdd9-b64813a06139_sundaystrip08-25-2024.jpg">
- <img src="https://storage.ko-fi.com/cdn/useruploads/6d0cf241-51ad-4303-bdd9-b64813a06139_sundaystrip08-25-2024.jpg" style="width:90%;" ></a>
+<br>
+<h3>Sunday Strips</h3>  
+<a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/6d0cf241-51ad-4303-bdd9-b64813a06139_sundaystrip08-25-2024.jpg">
+<img src="https://storage.ko-fi.com/cdn/useruploads/6d0cf241-51ad-4303-bdd9-b64813a06139_sundaystrip08-25-2024.jpg" style="width:90%;" ></a>
       
- <br>
- <h3>Renders</h3>                               
- <p>No renders this update :P</p>
+<br>
+<h3>Renders</h3>                               
+<p>No renders this update :P</p>
       
- </div>
- </td>                             
- </tr>
- </table>                       
- </td>                             
- </tr>
- </table>
- </body>
- </html>
+</div>
+</td>                             
+</tr>
+</table>                       
+</td>                             
+</tr>
+</table>
+</body>
+</html>
   </content>
-
-</entry>
-
+  </entry>
 
 
-<entry>
+
+  <entry>
     <title>Jazz'z news art and stuff 03.09.2024</title>
     <link href="https://jazz-dude.com/News/news-09-03.html"/>
     <id>https://jazz-dude.com/News/news-09-03.html</id>
     <updated>2024-09-03T19:56:02Z</updated>
     <content xml:lang="en" type="html">
 <html>
-   <head>
- </head>
+<head>
+</head>
 
- <body>
- <table class="table1" style="width:50%;margin-left:24%;margin-right:24%;background-color:#dedede;border-style:double;">
- <tr>
- <td>
- <table class="table1" style="margin:5%;padding:5%;background-color:#dedede;border-style:outset;border-width:10px;"> 
- <tr>
+<body>
+<table class="table1" style="width:50%;margin-left:24%;margin-right:24%;background-color:#dedede;border-style:double;">
+<tr>
+<td>
+<table class="table1" style="margin:5%;padding:5%;background-color:#dedede;border-style:outset;border-width:10px;"> 
+<tr>
                                 
                                 
- <td>
- <div>
- <h4>Site News</h4> 
- <p> Buisy week AND weekend, so the sunday comic is from monday and two doodles :P I think I am going to render the mech though, but I hve to rework it a bit.</p>     
- <p>Added new art to <a href="https://jazz-dude.com/Portfolio/doodles.html">Doodles</a> and <a href="https://jazz-dude.com/Portfolio/SundayC.html">Sunday Comics</a></p>
+<td>
+<div>
+<h4>Site News</h4> 
+<p> Buisy week AND weekend, so the sunday comic is from monday and two doodles :P I think I am going to render the mech though, but I hve to rework it a bit.</p>     
+<p>Added new art to <a href="https://jazz-dude.com/Portfolio/doodles.html">Doodles</a> and <a href="https://jazz-dude.com/Portfolio/SundayC.html">Sunday Comics</a></p>
                                     
- <p>Here is all the new stuff!</p>
+<p>Here is all the new stuff!</p>
   
- <h3>Doodles</h3>                                 
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/116f75a4-b6da-4851-a2d1-26b00c4ba5f7_doodlegermanmiku.jpg">
- <img src="https://storage.ko-fi.com/cdn/useruploads/display/116f75a4-b6da-4851-a2d1-26b00c4ba5f7_doodlegermanmiku.jpg" style="width:30%;" ></a>
+<h3>Doodles</h3>                                 
+<a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/116f75a4-b6da-4851-a2d1-26b00c4ba5f7_doodlegermanmiku.jpg">
+<img src="https://storage.ko-fi.com/cdn/useruploads/display/116f75a4-b6da-4851-a2d1-26b00c4ba5f7_doodlegermanmiku.jpg" style="width:30%;" ></a>
 
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/523e6f49-bdd9-43ad-9d7f-209f986d1e37_renderdeathbot.jpg">
- <img src="https://storage.ko-fi.com/cdn/useruploads/display/523e6f49-bdd9-43ad-9d7f-209f986d1e37_renderdeathbot.jpg" style="width:30%;" ></a>
+<a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/523e6f49-bdd9-43ad-9d7f-209f986d1e37_renderdeathbot.jpg">
+<img src="https://storage.ko-fi.com/cdn/useruploads/display/523e6f49-bdd9-43ad-9d7f-209f986d1e37_renderdeathbot.jpg" style="width:30%;" ></a>
 
 
- <br>
- <h3>Sunday Strips</h3>  
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/8e16f316-34b9-4864-a65a-211ba7df50fe_sundaystrip09-02.jpg">
- <img src="https://storage.ko-fi.com/cdn/useruploads/8e16f316-34b9-4864-a65a-211ba7df50fe_sundaystrip09-02.jpg" style="width:90%;" ></a>
+<br>
+<h3>Sunday Strips</h3>  
+<a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/8e16f316-34b9-4864-a65a-211ba7df50fe_sundaystrip09-02.jpg">
+<img src="https://storage.ko-fi.com/cdn/useruploads/8e16f316-34b9-4864-a65a-211ba7df50fe_sundaystrip09-02.jpg" style="width:90%;" ></a>
       
- <br>
- <h3>Renders</h3>                               
- <p>No renders this update :P</p>
+<br>
+<h3>Renders</h3>                               
+<p>No renders this update :P</p>
       
- </div>
- </td>                             
- </tr>
- </table>                       
- </td>                             
- </tr>
- </table>
- </body>
- </html>
+</div>
+</td>                             
+</tr>
+</table>                       
+</td>                             
+</tr>
+</table>
+</body>
+</html>
   </content>
   </entry>
 
-
-
-<entry>
-    <title>Jazz'z news art and stuff 08.09.2024</title>
-    <link href="https://jazz-dude.com/News/news-09-08.html"/>
-    <id>https://jazz-dude.com/News/news-09-08.html</id>
-    <updated>2024-09-09T10:08:02Z</updated>
-    <content xml:lang="en" type="html">
-<html>
-   <head>
- </head>
-
- <body>
- <table class="table1" style="width:50%;margin-left:24%;margin-right:24%;background-color:#dedede;border-style:double;">
- <tr>
- <td>
- <table class="table1" style="margin:5%;padding:5%;background-color:#dedede;border-style:outset;border-width:10px;"> 
- <tr>
-                                
-                                
- <td>
- <div>
- <h4>Site News</h4> 
- <p> Its been a productive week, did four (one???) render and some doodles! As always I have also the sunday comic offering!</p>     
- <p>Added new art to <a href="https://jazz-dude.com/Portfolio/doodles.html">Doodles</a> , <a href="https://jazz-dude.com/Portfolio/SundayC.html">Sunday Comics</a> and <a href="https://jazz-dude.com/Portfolio/2024-9-12">Art from Sep to Dec</a>!</p>
-                                    
- <p>Here is all the new stuff!</p>
-  
- <h3>Doodles</h3>                                 
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/4248f32c-9f9e-4faf-9764-eeaf1b3d9135_doodlehand.jpg">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/4248f32c-9f9e-4faf-9764-eeaf1b3d9135_doodlehand.jpg" style="width:30%;" ></a>
-              
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/1d062059-64b4-4183-b3c1-83da1d99601b_doodlemusicdungeon.jpg">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/1d062059-64b4-4183-b3c1-83da1d99601b_doodlemusicdungeon.jpg" style="width:30%;" ></a>
-
- <br>
- <h3>Sunday Strips</h3>  
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/3175a525-578b-4089-93e3-6904f68decd6_sundaystrip09-08.jpg">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/3175a525-578b-4089-93e3-6904f68decd6_sundaystrip09-08.jpg" class="folio" ></a>  
-   
-      
- <br>
- <h3>Renders</h3>                               
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/aed484b7-6e11-457c-8323-51b4ff3f104c_pfpseptember2024.png">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/aed484b7-6e11-457c-8323-51b4ff3f104c_pfpseptember2024.png" class="char" ></a> 
-    
-     <p>The september pfp, heavily inspired by the style of Disco Elysium, defo mroe painterly than my usual style</p>
-      
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/f37228ce-4d51-4555-98f1-faa4f501b579_renderrobotgore1.jpg">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/f37228ce-4d51-4555-98f1-faa4f501b579_renderrobotgore1.jpg" class="char" ></a> 
-      
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/85e302c1-81a9-445f-be8a-19f9f07c34a0_renderrobotgore2.jpg">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/85e302c1-81a9-445f-be8a-19f9f07c34a0_renderrobotgore2.jpg" class="char" ></a> 
-      
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/97acbaee-911f-42d6-91bb-7327af651be8_renderrobotgore3.jpg">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/97acbaee-911f-42d6-91bb-7327af651be8_renderrobotgore3.jpg" class="char" ></a> 
-      
- <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/26083f2e-ea43-4170-a03a-3cad9583fdb7_renderrobotgore4.jpg">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/26083f2e-ea43-4170-a03a-3cad9583fdb7_renderrobotgore4.jpg" class="char" ></a> 
-
-     <p> This is the render (or renders, heh) of the sketch I uploaded some time ago. I did four variants because I felt like it, learnt a lot from old vhs anime screenshots of gundam. You can get these as prints on my Ko-Fi :P (if not available send me a mail!)</p>
-    
-
- </div>
- </td>                             
- </tr>
- </table>                       
- </td>                             
- </tr>
- </table>
- </body>
- </html>
-      
-</entry>    
-
-    
 </feed>
