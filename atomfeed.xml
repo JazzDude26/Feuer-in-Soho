@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://jazz-dude.com/atomfeed.xml">
 
   <title>FEUER IN SOHO!</title>
   <link href="https://jazz-dude.com/>
@@ -132,9 +132,9 @@
 
 <entry>
     <title>Jazz'z news art and stuff 08.09.2024</title>
-    <link href="https://jazz-dude.com/"/>
-    <id>https://jazz-dude.com/</id>
-    <updated>2024-09-08T20:34:02Z</updated>
+    <link href="https://jazz-dude.com/News/news-09-08.html"/>
+    <id>https://jazz-dude.com/News/news-09-08.html</id>
+    <updated>2024-09-08T19:56:02Z</updated>
     <content xml:lang="en" type="html">
 <html>
    <head>
@@ -201,4 +201,6 @@
  </body>
  </html>
     </entry>    
+
+    
 </feed>
