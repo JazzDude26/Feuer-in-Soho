@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="https://jazz-dude.com/">
 
-  <title>FEUER IN SOHO!</title>
-  <link href="https://jazz-dude.com/>
-  <author>
-    <name>Jazz</name>
-  </author>
-  <updated> 2024-09-09T10:00:56Z </updated>
-  <icon>/ImagesCSS/Giant Armadillidium 4.png</icon>
-  <subtitle>7 Kinder und 1 Greis</subtitle>
-  <id>https://jazz-dude.com</id>
+<title>FEUER IN SOHO!</title>
+<link href="https://jazz-dude.com/>
+  
+<author>
+<name>Jazz</name>
+</author>
+<updated> 2024-09-09T10:00:56Z </updated>
+<icon>/ImagesCSS/Giant Armadillidium 4.png</icon>
+<subtitle>7 Kinder und 1 Greis</subtitle>
+<id>https://jazz-dude.com</id>
   
 
 <entry>
