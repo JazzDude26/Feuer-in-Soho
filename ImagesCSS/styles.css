@@ -75,6 +75,9 @@
     background-color:#dedede;
          
 }
+tbody{
+  border-style:double;
+}
 
 body {background-color:#15161C;
      }      
