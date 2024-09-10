@@ -25,9 +25,7 @@
 /* mobile breakpoint */
 @media (min-width:360px) {
     .holy-grail-flexbox > .left-sidebar,
-    .holy-grail-flexbox > .right-sidebar {
-        width:25%;
-    }
+    .holy-grail-flexbox > .right-sidebar {width:25%; }
 }
 
 /* tablet breakpoint */
