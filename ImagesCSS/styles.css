@@ -92,4 +92,7 @@ body {background-color:#15161C;
 
 li{
   margin: 5%;
+list-style-type: none;
+ margin-left:auto;
+margin-right:auto;
 }
