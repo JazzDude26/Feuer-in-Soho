@@ -69,7 +69,7 @@
 }
     
 .table1{
-    border-style:double;
+    border-style:none;
     text-align:center;
     font-family: "Lucida Console", "Courier New", monospace;
     background-color:#dedede;
