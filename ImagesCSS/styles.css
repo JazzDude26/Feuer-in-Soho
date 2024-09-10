@@ -68,18 +68,19 @@
     border: 5px solid #FFFF00;
 }
     
-     .table1{
+.table1{
     border-style:double;
     text-align:center;
     font-family: "Lucida Console", "Courier New", monospace;
     background-color:#dedede;
+    text-align:center;
+    img-align:center;
          
 }
 .table2{
   border-style:double;
   width:100%;
-  text-align:center;
-  img-align:center;
+
 }
 
 body {background-color:#15161C;
