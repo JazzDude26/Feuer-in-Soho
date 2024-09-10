@@ -16,11 +16,11 @@
 }
 
 /* background colors */
-.holy-grail-flexbox > .header {background:#210430}
-.holy-grail-flexbox > .main-content {background:#210430}
-.holy-grail-flexbox > .left-sidebar {background:#210430}
-.holy-grail-flexbox > .right-sidebar {background:#210430}
-.holy-grail-flexbox > .footer {background:#210430}
+.holy-grail-flexbox > .header {background:#15161C}
+.holy-grail-flexbox > .main-content {background:#15161C}
+.holy-grail-flexbox > .left-sidebar {background:#15161C}
+.holy-grail-flexbox > .right-sidebar {background:#15161C}
+.holy-grail-flexbox > .footer {background:#15161C}
 
 /* mobile breakpoint */
 @media (min-width:360px) {
