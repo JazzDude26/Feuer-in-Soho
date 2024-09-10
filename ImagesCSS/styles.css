@@ -80,10 +80,12 @@
 .table2{
   border-style:double;
   width:100%;
-
+  text-align:center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  img-align:center;
 }
 
-body {background-color:#dedede;
+body {background-color:#15161C;
      }      
 
 li{
