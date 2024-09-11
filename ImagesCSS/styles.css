@@ -123,3 +123,11 @@
             text-decoration: none;
         }
 
+.link2:link {
+  color: red;
+}
+
+
+.link2:visited {
+  color: green;
+}
