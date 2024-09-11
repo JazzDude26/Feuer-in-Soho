@@ -117,15 +117,17 @@
             margin-left: auto;
             margin-right: auto;
         }
-a:link {
-  color: #307224;
+
+        .link {
+            color: #15161C;
+            text-decoration: none;
+        }
+
+         a:link {
+          color: #307224;
 }
 
 a:visited {
   color: #8d828f;
 }
-        }
-        .link {
-            color: #15161C;
-            text-decoration: none;
         }
