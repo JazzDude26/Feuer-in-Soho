@@ -33,7 +33,7 @@ var json = [
     },
     {
         title: "Commissions",
-        link: "https://jazz-dude.com/Portfolio/Commissions.html"
+        link: "https://jazz-dude.com/Commissions page.html"
     },
 ]
 
