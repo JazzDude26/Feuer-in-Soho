@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Soho News</title>
+        <link rel="icon" type="image/x-icon" href="ImagesCSS/isopod.png">
+        <link rel="stylesheet" href="/ImagesCSS/styles.css">
+        <style>    
+img.folio{
+ width: 99%;
+ margin-top:2px;
+ margin-bottom:3px;
+}
+</style>
+    </head>
+
+ <body>
+ 
+ <div class="div1" style="width:70%;margin:auto;margin-top:10%;margin-bottom:10%;">
+<h4>Site News</h4> 
+ <p>Well I think you cant blame me for skipping a week, I have some new renders, a new sunda strip and some little doodles. The next update will be coming in a few days, I still plan to make these weekley, so probably monday? It will be small but hey :P</p>     
+ <p>Added new art to <a href="https://feuer-in-soho.art/Portfolio/doodles.html">Doodles</a>, <a href="https://feuer-in-soho.art/Portfolio/SundayC.html">Sunday Comics</a> and <a href="https://feuer-in-soho.art/Portfolio/2024-9-12.html">Renders</a>.</p>
+                                    
+ <p>And everything new:</p>
+  
+ <h3>Doodles</h3>    
+
+                    <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/e75ac183-f27c-4d9e-9bcc-1143c7d66eeb_doodlealbatross.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/e75ac183-f27c-4d9e-9bcc-1143c7d66eeb_doodlealbatross.jpg" style="width:30%;" ></a>
+
+                  <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/580ae986-e2c1-4e9d-86be-f5b25555c147_doodlegirl2.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/580ae986-e2c1-4e9d-86be-f5b25555c147_doodlegirl2.jpg" style="width:30%;" ></a>
+    
+                  <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/3d6bb4d9-c27f-42f3-ad6c-cd9da2665bea_pfpnovember20244.png">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/3d6bb4d9-c27f-42f3-ad6c-cd9da2665bea_pfpnovember20244.png" style="width:30%;" ></a>
+
+ <hr>
+
+ 
+ <h3>Renders</h3>                               
+
+        <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/70854b06-6e77-40dc-b433-cec70407f352_renderdailycarry.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/70854b06-6e77-40dc-b433-cec70407f352_renderdailycarry.jpg" style="width:80%;"></a>      
+
+          <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/04ee1916-ebf2-41d1-b0cb-42e6d453f3bd_renderplane.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/04ee1916-ebf2-41d1-b0cb-42e6d453f3bd_renderplane.jpg" style="width:80%;"></a>      
+
+          <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/b242ad5f-be4e-4b4f-ac3d-b758fe3b347f_renderthanksgiving.png">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/b242ad5f-be4e-4b4f-ac3d-b758fe3b347f_renderthanksgiving.png" style="width:80%;"></a>      
+
+          <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/23045e18-cd1e-41af-bc51-327441cb0316_renderskippingfish.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/23045e18-cd1e-41af-bc51-327441cb0316_renderskippingfish.jpg" style="width:80%;"></a>      
+
+          <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/e76325fc-1486-4f13-90b5-64962ad27f07_renderisopodaicon.png">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/e76325fc-1486-4f13-90b5-64962ad27f07_renderisopodaicon.png" style="width:80%;"></a>      
+
+          <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/a5e7a367-7fa0-416c-a35c-1c253901e800_renderundemokratischemedien.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/a5e7a367-7fa0-416c-a35c-1c253901e800_renderundemokratischemedien.jpg" style="width:80%;"></a>      
+   
+ <h3>Sunday Strips</h3>  
+
+<hr>
+       <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/47da55cb-0bca-4535-85c7-b636c0d3a89e_sundaystrip11-11.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/47da55cb-0bca-4535-85c7-b636c0d3a89e_sundaystrip11-11.jpg" class="folio" ></a>
+   
+
+ </div>
+
+ </body>
+ </html>
