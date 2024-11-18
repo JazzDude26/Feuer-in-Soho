@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+uer<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>FEUER IN SOHO!</title>
-  <link href="https://jazz-dude.com/News/news.html"/>
-  <updated>2024-11-15T16:38:02Z</updated>
+  <link href="https://feuer-in-soho.art/News/news.html"/>
+  <updated>2024-11-18T20:08:02Z</updated>
   <author>
-    <name>Jazz</name>
+    <name>Soho</name>
   </author>
   <subtitle>Sieben Kinder und ein Greis</subtitle>
   <icon>/ImagesCSS/isopod.png</icon>
-  <id>https://jazz-dude.com</id>
+  <id>https://feuer-in-soho.art</id>
 
   <entry>
     <title>Jazz'z news art and stuff 25.08.2024</title>
@@ -797,6 +797,63 @@ and <a href="https://jazz-dude.com/Portfolio/SundayC.html">Sunday Comics</a></p>
  </body>
   </content>
   </entry>
+
+
+                <entry>
+    <title>Feuer in Soho! 18.11.2024</title>
+    <link href="https://feuer-in-soho.art/News/news-11-18.html"/>
+    <id>https://feuer-in-soho.art/News/news-11-18.html</id>
+    <updated>2024-11-18T20:08:02Z</updated>
+    <content xml:lang="en" type="html">
+<html>
+<head>
+</head>
+
+ <body>
+ 
+ <div class="div1" style="width:70%;margin:auto;margin-top:10%;margin-bottom:10%;">
+<h4>Site News</h4> 
+ <p>As promised, sunday update on monday.</p>     
+ <p>Added new art to <a href="https://feuer-in-soho.art/Portfolio/doodles.html">Doodles</a>, <a href="https://feuer-in-soho.art/Portfolio/SundayC.html">Sunday Comics</a> and <a href="https://feuer-in-soho.art/Portfolio/2024-9-12.html">Renders</a>.</p>
+
+<p>Patitour 18-11-2024:</p>
+<ul>   
+<li>Step outside and look at the sky for five minutes</li>
+<li>Look at another object in the distance</li>
+<li>Think about your change in perception</li> 
+</ul>   
+ <p>And everything new:</p>
   
+ <h3>Doodles</h3>    
+
+                    <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/6c3a740d-7224-4e4e-af3b-a3ed84a72bd0_doodlesurabaya.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/6c3a740d-7224-4e4e-af3b-a3ed84a72bd0_doodlesurabaya.jpg" style="width:30%;" ></a>
+
+                  <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/ad1db18c-fb0c-4414-bf69-df4282141c8c_doodlew.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/ad1db18c-fb0c-4414-bf69-df4282141c8c_doodlew.jpg" style="width:30%;" ></a>
+    
+
+ <hr>
+
+ 
+ <h3>Renders</h3>                               
+
+        <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/70ebce33-078a-4b1b-9aba-3ab1a79bbde8_pfpnovember20245.png">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/70ebce33-078a-4b1b-9aba-3ab1a79bbde8_pfpnovember20245.png" style="width:80%;"></a>      
+
+    
+   
+ <h3>Sunday Strips</h3>  
+
+<hr>
+       <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/6f1501a1-aef0-40ea-bcc4-85a831d0a687_sundaystrip18-11.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/6f1501a1-aef0-40ea-bcc4-85a831d0a687_sundaystrip18-11.jpg" class="folio" ></a>
+   
+
+ </div>
+
+ </body>
+  </content>
+  </entry>
 
 </feed>
