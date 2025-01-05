@@ -1,4 +1,9 @@
 var json = [
+
+     {
+        title: "Art from Jan to April 2025",
+        link: "https://feuer-in-soho.art/Portfolio/2025-01-04.html"
+    },
      {
         title: "Art from Jan to April 2024",
         link: "https://feuer-in-soho.art/Portfolio/2024-jan-to-april.html"
@@ -14,6 +19,10 @@ var json = [
     {
         title: "Old art up to 12.2023",
         link: "https://feuer-in-soho.art/Portfolio/old-to-12-2023.html"
+    },
+     {
+        title: "Some doodles 2025",
+        link: "https://feuer-in-soho.art/Portfolio/doodles-2025.html"
     },
     {
         title: "Some doodles",
