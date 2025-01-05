@@ -1048,5 +1048,69 @@ What exactly does that mean? Well it means I will do a lot of learning and plann
   </content>
   </entry>  
 
+       <entry>
+    <title>Feuer in Soho! 05.01.2025</title>
+    <link href="https://feuer-in-soho.art/News/News2025/news-01-05.html"/>
+    <id>https://feuer-in-soho.art/News/news-01-05.html</id>
+    <updated>2025-01-05T17:00:02Z</updated>
+    <content xml:lang="en" type="html">
+<html>
+<head>
+</head>
+
+
+ <body>
+ 
+ <div class="div1" style="width:70%;margin:auto;margin-top:10%;margin-bottom:10%;">
+<h1>Site News</h1> 
+ <p>New year new update!.</p>     
+ <p>Added new art to <a href="https://feuer-in-soho.art/Portfolio/doodles.html">Doodles</a>,and <a href="https://feuer-in-soho.art/Portfolio/SundayC.html">Sunday Comics</a>.</p>
+ 
+ <p>And everything new:</p>
+
+     <h3>Game-Dev News</h3>
+
+<p>I have made some basic progress on the game, in fact most of the art I have been making is related to it this update.</p>
+<p>I have sorted out suspension, movement and animations for the wheels. Now I will probably move on to turret and gun then implement some shooting (though I have to think of all that ballistics stuff(yeowch)). I am taking a modulat approach to this which is probably better for future tweaks but also kinda a bane with regards to coding as that isnt something I am too familliar with yet.</p>
+<p>But we get there :P</p>
+<br>
+<p>Heres a video of the progress I made.</p>
+     
+<iframe width="560" height="315" src="https://www.youtube.com/embed/355I-OP6cOM?si=DxX6OV5EQpEQurZV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+<hr>
+
+   <h3>Renders</h3>
+
+   <p>Nothing new here :)</p>
+     
+     <h3>Doodles</h3>    
+
+                    <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/3fb91d96-c822-4b8f-96d5-af28537d64ea_doodlepage1.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/3fb91d96-c822-4b8f-96d5-af28537d64ea_doodlepage1.jpg" style="width:30%;" ></a>
+
+                       <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/cc0d4e4e-7196-4457-a025-66145ddf6bc8_doodletankconcepts2.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/cc0d4e4e-7196-4457-a025-66145ddf6bc8_doodletankconcepts2.jpg" style="width:30%;" ></a>
+
+                       <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/display/2f8f1dcf-3b9f-4b65-838d-720134f76a60_doodletankconcepts3.jpg">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/2f8f1dcf-3b9f-4b65-838d-720134f76a60_doodletankconcepts3.jpg" style="width:30%;" ></a>
+
+ <hr>   
+     
+ <h3>Sunday Strips</h3>  
+
+     
+       <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/09452d38-ac4c-4259-aaa7-c4f1ce0add2f_01-05-2025.png">
+      <img src="https://storage.ko-fi.com/cdn/useruploads/09452d38-ac4c-4259-aaa7-c4f1ce0add2f_01-05-2025.png" class="folio" ></a>
+   
+   
+
+ </div>
+
+ </body>
+  </content>
+  </entry>  
+
 </feed>
 
