@@ -17,6 +17,21 @@
 img.char{
 width:49%;    
 }        
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+}
+
+.pagination a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}    
 </style>
         
     </head>
@@ -48,7 +63,19 @@ width:49%;
               
       <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/09452d38-ac4c-4259-aaa7-c4f1ce0add2f_01-05-2025.png">
       <img src="https://storage.ko-fi.com/cdn/useruploads/09452d38-ac4c-4259-aaa7-c4f1ce0add2f_01-05-2025.png" class="folio" ></a>
-<hr>   
+<hr>  
+
+<div class="pagination">
+  <a href="#">&laquo;</a>
+  <a class="active" href="#">1</a>
+  <a href="#">2</a>
+  <a href="#">3</a>
+  <a href="#">4</a>
+  <a href="#">5</a>
+  <a href="#">6</a>
+  <a href="#">&raquo;</a>
+</div>
+                
        <a target="_blank" href="https://storage.ko-fi.com/cdn/useruploads/d2cb2e8f-c618-40cf-af38-0fbe1618b83c_sundaystrip12-15.jpg">
       <img src="https://storage.ko-fi.com/cdn/useruploads/d2cb2e8f-c618-40cf-af38-0fbe1618b83c_sundaystrip12-15.jpg" class="folio" ></a>               
 <hr>
