@@ -38,7 +38,7 @@ var json = [
     },
     {
         title: "Sunday Comics",
-        link: "https://feuer-in-soho.art/Portfolio/SundayC.html"
+        link: "https://feuer-in-soho.art/Portfolio/Sunday Comics/sunday_current.html"
     },
     {
         title: "Commissions",
