@@ -101,14 +101,14 @@
             font-family: "Lucida Console", "Courier New", monospace;
             padding-top: 5%;
             padding-bottom: 5%;
-            box-shadow: -5px -5px rgba(45, 45, 45, 0.8) inset, -20px -20px 10px rgba(0, 0, 0, 1);
             clip-path: polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,10px 100%,0 calc(100% - 10px));
+            box-shadow: -5px -5px rgba(45, 45, 45, 0.8) inset, -20px -20px -10px rgba(0, 0, 0, 1);
 
             
         }
 
         .div2:hover {
-            box-shadow: -20px -20px 10px rgba(0, 0, 0, 0.8);
+            box-shadow: -20px -20px -10px rgba(0, 0, 0, 0.8);
         } 
 
         .div4 {
