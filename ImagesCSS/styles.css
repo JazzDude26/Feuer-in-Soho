@@ -106,9 +106,9 @@
             box-shadow: 2% 2% rgba(80, 80, 80, 0.8)
         }
 
-        .div2:hover {
+       /* .div2:hover {
             box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-        }
+        } */
 
         .div4 {
             width: 100%;
