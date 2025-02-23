@@ -93,6 +93,7 @@
             text-align: center;
             width: 100%;
             padding: 5%;
+            box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;   
         }
 
         .div2 {
@@ -101,7 +102,8 @@
             font-family: "Lucida Console", "Courier New", monospace;
             padding-top: 5%;
             padding-bottom: 5%;
-            box-shadow: 0 0px 3px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.1);
+            /* box-shadow: 0 0px 3px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.1); */
+            box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset; 
         }
 
         .div2:hover {
