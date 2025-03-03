@@ -112,8 +112,7 @@
 
 
         .newspaper-box {
-            text-align: center;
-            border-style: solid;
+            text-align: jusitfy;
             border-width: 1%;
             padding: 5%;
         }
