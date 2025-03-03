@@ -113,7 +113,7 @@
 
         .newspaper-box {
             text-align: jusitfy;
-            border-width: 1%;
+            font-family: "Lucida Console", "Courier New", monospace;
             padding: 5%;
         }
 
