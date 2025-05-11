@@ -1912,7 +1912,7 @@ What exactly does that mean? Well it means I will do a lot of learning and plann
   <content xml:lang="en" type="html">
 <html>
     <head>
-      
+        <title>Soho News</title>
         <link rel="icon" type="image/x-icon" href="ImagesCSS/isopod.png">
         <link rel="stylesheet" href="/ImagesCSS/styles.css">
         <style>    
