@@ -1924,7 +1924,7 @@ img.folio{
 </style>
     </head>
 
- <body>
+  <body>
         <div class="div1" style="width:70%;margin:auto;margin-top:10%;margin-bottom:10%;">
           <h1>Soho News</h1>  
             <div class="newspaper">
@@ -1949,7 +1949,7 @@ img.folio{
               
               <br/>
               <hr/>
-                     <div class="article">
+                     <div class="interview">
                       <h3>Artist Interview</h3>
                         <div style="text-align:left;">
                         <br/>
