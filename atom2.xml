@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://feuer-in-soho.art/atom2.xml">
+
+  <title>Atom Test</title>
+  <link href="https://feuer-in-soho.art/"/>
+  <updated>2025-08-22T18:30:02Z</updated>
+  <author>
+    <name>Soho</name>
+  </author>
+  <id>https://feuer-in-soho.art/</id>
+
+  <entry>
+    <title>22.08.2025</title>
+    <link href="https://feuer-in-soho.art/News/News2025/news-08-22.html"/>
+    <id>https://feuer-in-soho.art/</id>
+    <updated>2025-08-22T18:30:02Z</updated>
+    <summary>Test Test</summary>
+  </entry>
+
+</feed>
