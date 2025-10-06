@@ -2,14 +2,14 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
+  <title>Feuer In Soho</title>
   <link>https://feuer-in-soho.art/</link>
   <description>Art and bullshit</description>
   
   <item>
     <title>RSS Tutorial</title>
     <link>https://feuer-in-soho.art/News/News2025/news-08-22.html</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <description>Updates of the 22.08.2025</description>
   </item>
   
 </channel>
