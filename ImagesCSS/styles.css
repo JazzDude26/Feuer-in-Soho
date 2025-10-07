@@ -126,8 +126,8 @@
 
 
         .newspaper-background {
-            background-color: #15161C
-            padding: 4%;
+            background-color: #15161C;
+            padding-left: 15%;
             font-family: spacemono;
         }
 
@@ -194,3 +194,4 @@
         padding-right:5%;
         margin: 0 auto;
         }
+
