@@ -1,1 +1,13 @@
+I have been thinking about pixelart in a somewhat academic context, in the way that it is really not a thing anyone has ever written about in academics. Which makes sense, its a art form that has been closely linked to videogames which in themselves have only basically just gained reccognition as an  art form. Yet I cant help but find that pixel art and a artform that has found at least some accademic reccognition, embroidery. Especially counted-thread embroideries like cross stitch, were you are limited to the wrpas and wefts of the piece of cloth you are embroidering, giving very similar conditions to the raster grid of pixel art.
 
+The artistic period of Biedermeier is well know for its cross-stitch "paintings" and pillows with floral images.
+Especially with the inclusiuon of crossstitch embroidery into the educational curriculum of girls after the unification of germany under prussia, the grid bound construction of art, found its way into the everyday life, even though the art form is much older than that.
+
+And besides the gird bound limitations of the artform we also have the limitsimpose by color. Pixealart has been historically bound to limited colors, which was at first because of hardware limitations, but as become part of the style. Imitation of different ardware limits are still popular today. In modern times, palettes like the Pico8 palette stemming from the pice of software supposedly emulation one of these old retro consoles, or the palettes curated on sites like Lospec, reach mass popularity with pixel-artists.
+But similar limitations can also be found in embroiery, while you theoretically could have used infinite colors by dyeing the yarn one would embroider with in the desired color, it was much more economical to stick to a few colors. Thus basically preemting the use of similar techniques as in pixel art, in regards to the choice of color interactions.
+
+But in the end the physical differences between the two are obvious, being that one is derived from a completely digital medium.
+
+Explaining the term "retro"
+
+Modern Pixelart vs "Retro" Pixelart
