@@ -9,5 +9,11 @@ But similar limitations can also be found in embroiery, while you theoretically 
 But in the end the physical differences between the two are obvious, being that one is derived from a completely digital medium.
 
 Explaining the term "retro"
+A thing that I have seen some people talk about online recently, is the meaning of "retro" mainly in the sphere of videogames, but it also somewhat applies to fashion and interior design.
+But first games. "Retro Games" roughly means the ones from the 1980s to the late 1990s, the year 2000 is a convenient cutoff point but nothing rigid. "Retro Games" are generally considered to be the low fidelity predecessors of "Modern Games" with polished graphics and high polygon counts. This contrast means that "Retro" is not only an epocial term but also a style descriptor, though the latter has to do with some bias that saw "realistic" games as better, as is arguable the games at the height of pixelart (something like Super Metroid) were extremely polished, both gameplay and art wise. Maybe the dip in polish we saw with early 3D games (Kingsfield, Mario 64 for exmaple) lead to te retroactive perception of that era as inferior. Either way.
+"Retro" is often used as a style descriptor a "Retro-inspired Game" usually means specific artisic elements like that its 2D and Pixel art, and then some gameplay elements, usually harder difficulty emulating the arcade penny-snatching roots of the early home console games. But generally the term can not be applied to a singular style, "Castle Vania Symphony of the Night" might not differ gameplay wise from the first Castelvania much, but does so greatly artistically, which is mainly because of the lifted hardware limitations. So at most you could argue a style progression in the face of technological progress.
+Meaning "Retro" means something else, specifically like I already wrote, a period descriptor, mainly from the 1980s to the year 2000. A period of games that stands in contrast with everything before and everything after. Before: Physical games and proto-videogames; After: gritty  brown shooters, smooth models and "realistic" enviornments.
 
 Modern Pixelart vs "Retro" Pixelart
+I was about to write something on tis too but the youtuber Noodle made a great video about it so I will just link that.
+https://www.youtube.com/watch?v=bC-8y2R6IxI
