@@ -197,6 +197,15 @@
         margin: 0 auto;
         }
 
+        #letter {
+           background-image: url('https://storage.ko-fi.com/cdn/useruploads/46158564-06d4-4141-9552-ad66efc6e4b6_doodleheerletter2.png');
+        }
+        
+        #letter:hover {
+           background-image: url('https://storage.ko-fi.com/cdn/useruploads/b9ee8579-cb78-486b-a44a-847a954ee467_doodleheerletter.png');
+        }
+
+
 
 
 
