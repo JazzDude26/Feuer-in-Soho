@@ -136,13 +136,20 @@
 
         .newspaper-new {
             align-self: center;
-            width: 90%;
+            width: 75%;
             padding: 5%;
             margin: 4%;
             border-style: solid;
             border-width: 1px;
             background-color: #dedede;
             text-align: center;
+        }
+
+        @text (min-width:360px) {
+            .newspaper-new {
+                width: 95%;
+                font-size: 24px;
+            }
         }
 
         .article {
