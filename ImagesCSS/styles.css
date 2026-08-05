@@ -145,13 +145,13 @@
             text-align: center;
         }
 
-        @media (max-width: 200px) {
+        @media only screen and (orientation: portrait) {
             .article {
                 font-size: 24px;
             }
         }
 
-        @media (max-width: 200px) {
+        @media only screen and (orientation: portrait)  {
             .newspaper-new {
                 width: 97%;
             }
