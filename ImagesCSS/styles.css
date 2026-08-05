@@ -145,7 +145,7 @@
             text-align: center;
         }
 
-        @media all and (max-width: 1000px) 
+        @media (min-width: 360px) 
         
         { .newspaper-new { 
                 align-self: center;
