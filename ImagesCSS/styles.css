@@ -145,13 +145,13 @@
             text-align: center;
         }
 
-        @media only screen and (max-width: 200px) {
+        @media (max-width: 200px) {
             .article {
                 font-size: 24px;
             }
         }
 
-        @media only screen and (max-width: 200px) {
+        @media (max-width: 200px) {
             .newspaper-new {
                 width: 97%;
             }
