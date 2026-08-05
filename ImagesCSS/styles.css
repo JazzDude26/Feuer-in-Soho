@@ -155,7 +155,9 @@
         @media only screen and (orientation: portrait)  {
             .newspaper-new {
                 width: 100%;
-                align: left;
+                align-self: left;
+                padding: 0%;
+                margin: 0%;
             }
         }
 
