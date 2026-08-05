@@ -145,13 +145,13 @@
             text-align: center;
         }
 
-        @page (max-width:1000px) {
+        @container (max-width:1000px) {
             .article {
                 font-size: 24px;
             }
         }
 
-        @page (max-width:1000px) {
+        @container (max-width:1000px) {
             .newspaper-new {
                 width: 90%;
             }
