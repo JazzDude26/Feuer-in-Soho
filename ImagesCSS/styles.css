@@ -146,11 +146,17 @@
         }
 
         @text (min-width:360px) {
-            .newspaper-new {
-                width: 95%;
+            .article {
                 font-size: 24px;
             }
         }
+
+        @page (min-width:360px) {
+            .newspaper-new {
+                width: 90%;
+            }
+        }
+
 
         .article {
             width: 90%;
