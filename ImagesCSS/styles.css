@@ -79,6 +79,13 @@
             }
         }
 
+
+
+
+
+
+
+
         @font-face {
             font-family: spacemono;
             src: url(/ImagesCSS/SpaceMono-Regular.ttf);
@@ -190,6 +197,9 @@
           color: #610823;
         }
 
+
+
+
        .interview {
         border-style:solid;
         border-width:1px;
@@ -198,6 +208,10 @@
         padding-right:5%;
         margin: 0 auto;
         }
+
+
+
+
 
         #letter {
            background-image: url('https://storage.ko-fi.com/cdn/useruploads/46158564-06d4-4141-9552-ad66efc6e4b6_doodleheerletter2.png');
@@ -209,5 +223,74 @@
 
 
 
+
+
+
+        .comms-base {
+            font-family: spacemono;
+            align-self: auto;
+            width: 90%;
+            height: auto;
+            padding: 1%;
+            margin: 5%;
+            border-style: solid;
+            border-width: 1px;
+            background-color: #dedede;
+        }
+
+        .comms-cont {
+            font-family: spacemono;
+            align-self: center;
+            width: 99%;
+            padding: 1%;
+            margin: 3%;
+
+        }
+
+        .comms-body {
+            position: relative;
+            float: left;
+
+        }
+
+        .comms-body {
+            font-family: spacemono;
+            width: 45%; 
+            height: 100%;
+            padding: 1.5%;
+            margin: 1%;
+            border-style: solid;
+            border-width: 1px;
+            background-color: #dedede;
+            text-align: justify;
+        }
+
+
+
+        .comms-break {
+            position: relative;
+            float: left;
+
+        }
+
+        .comms-break {
+            font-family: spacemono;
+            width: 92%; height: 100%;
+            padding: 2.5%;
+            margin: 1%;
+            border-style: solid;
+            border-width: 1px;
+            background-color: #dedede;
+            text-align: justify;
+            font-size: 13pt;
+        }
+
+        .comms-img {
+            width: 100%;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            
+        }
 
 
