@@ -297,6 +297,10 @@
         @media all and (max-width: 1800px)
         {
 
+                .article {
+                font-size: 20px;
+                }
+
                 .comms-base {
                 width: 95%;
                 padding: 1%;
