@@ -150,6 +150,7 @@
             border-width: 1px;
             background-color: #dedede;
             text-align: center;
+            display: inline-block;
         }
 
         .article {
